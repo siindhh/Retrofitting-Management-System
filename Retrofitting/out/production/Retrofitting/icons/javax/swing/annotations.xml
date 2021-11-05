@@ -1,0 +1,8 @@
+<root>
+    <item name='javax.swing.ImageIcon void loadImage(java.awt.Image)'>
+        <annotation name='org.jetbrains.annotations.NonBlocking'/>
+    </item>
+    <item name='javax.swing.JButton'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
